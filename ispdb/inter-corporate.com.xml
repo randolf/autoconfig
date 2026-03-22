@@ -54,7 +54,7 @@
       <username>%EMAILADDRESS%</username>
       <authentication>password-cleartext</authentication>
     </outgoingServer>
-    <documentation url="https://www.inter-corporate.com/mail/%EMAILADDRESS%">
+    <documentation url="https://www.inter-corporate.com/mail/?e=%EMAILADDRESS%">
       <descr lang="en">Electronic Mail Configuration</descr>
     </documentation>
   </emailProvider>
